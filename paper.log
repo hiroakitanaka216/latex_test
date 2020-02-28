@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.euc) (TeX Live 2017/Debian) (preloaded format=platex 2020.2.28)  28 FEB 2020 12:24
+This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.euc) (TeX Live 2017/Debian) (preloaded format=platex 2020.2.28)  28 FEB 2020 12:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -189,12 +189,6 @@ Underfull \hbox (badness 7558) in paragraph at lines 60--61
 練デ ータ
  []
 
-
-LaTeX Warning: Reference `eq:update' on page 1 undefined on input line 69.
-
-
-LaTeX Warning: Reference `eq:gef' on page 1 undefined on input line 82.
-
 [1
 
 
@@ -205,14 +199,7 @@ Overfull \hbox (31.4617pt too wide) in paragraph at lines 127--128
 
 [2
 
-] (./paper.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+] (./paper.aux) ) 
 Here is how much of TeX's memory you used:
  1683 strings out of 494735
  19389 string characters out of 6176126
@@ -222,4 +209,4 @@ Here is how much of TeX's memory you used:
  264 hyphenation exceptions out of 8191
  27i,8n,26p,730b,265s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on paper.dvi (2 pages, 10696 bytes).
+Output written on paper.dvi (2 pages, 10676 bytes).
